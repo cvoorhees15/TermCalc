@@ -13,4 +13,4 @@
 
 ### Format
 To invoke Termcalc:
-`calc {number {operation} {number}`
+`calc {number} {operation} {number}`
